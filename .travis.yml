@@ -3,3 +3,6 @@ perl:
   - "5.22"
   - "5.20"
   - "5.18"
+addons:
+    code_climate:
+        repo_token: a03cca4f853f09561169cdd4e22767405dc0352971c8f3654230ff7a7a3fa735
