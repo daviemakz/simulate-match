@@ -26,4 +26,8 @@ To run manual tests navigate to the repository root directory and execute:
 
     prove
 
+or
+
+    make test
+
 Enjoy!
