@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile( NAME          => 'Core::Game',
                AUTHOR        => 'David Makuni <d.makuni@live.co.uk>',
-               VERSION_FROM  => 'lib/Core/Game.pm',
+               VERSION       => '1.0.0',
                ABSTRACT      => 'Simlates a game called "match!"',
                PL_FILES      => {},
                LICENSE       => 'gpl',
