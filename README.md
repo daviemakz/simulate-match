@@ -1,4 +1,4 @@
-# simulate-match
+# STATUS
 [![Build Status](https://travis-ci.org/daviemakz/simulate-match.svg?branch=master)](https://travis-ci.org/daviemakz/simulate-match)
 
 # SUMMARY
