@@ -8,7 +8,10 @@ WriteMakefile( NAME          => 'Core::Game',
                ABSTRACT      => 'Simlates a game called "match!"',
                PL_FILES      => {},
                LICENSE       => 'gpl',
-               PREREQ_PM     => { 'List::Util' => 0, },
+               PREREQ_PM     => {
+                'List::Util' => 0,
+                'Class::Accessor' => 0
+               },
                TEST_REQUIRES => { 'Test::More' => 0, },
                EXE_FILES     => ['bin/play-match'],
                test          => { TESTS => 't/*.t' },
