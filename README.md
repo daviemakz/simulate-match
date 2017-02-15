@@ -1,3 +1,5 @@
+https://travis-ci.org/daviemakz/simulate-match.svg?branch=master
+
 # SUMMARY
 This is a small repository which simulates a card game called "Match!" between two computer players using N packs of cards (standard 52 card, 4 suit packs).
 
