@@ -1,5 +1,6 @@
 # STATUS
 [![Build Status](https://travis-ci.org/daviemakz/simulate-match.svg?branch=master)](https://travis-ci.org/daviemakz/simulate-match)
+[![Issue Count](https://codeclimate.com/github/daviemakz/simulate-match/badges/issue_count.svg)](https://codeclimate.com/github/daviemakz/simulate-match)
 
 # SUMMARY
 This is a small repository which simulates a card game called "Match!" between two computer players using N packs of cards (standard 52 card, 4 suit packs).
