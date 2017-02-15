@@ -10,6 +10,6 @@ WriteMakefile( NAME          => 'Core::Game',
                LICENSE       => 'gpl',
                PREREQ_PM     => { 'List::Util' => 0, },
                TEST_REQUIRES => { 'Test::More' => 0, },
-               EXE_FILES     => ['bin/play'],
+               EXE_FILES     => ['bin/play-match'],
                test          => { TESTS => 't/*.t' },
              );
