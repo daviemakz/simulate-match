@@ -4,7 +4,7 @@ use File::Spec;
 use lib File::Spec->catdir( $FindBin::Bin, '..', 'lib' );
 use Core::Player;
 
-use Test::More tests => 1;
+use Test::More tests => 4;
 
 my $player;
 
