@@ -5,11 +5,20 @@ The "Match!" matching condition can be the face value of the card, the suit, or 
 
 Play continues until the pile is completely exhausted (any cards played without ending in a "Match!" at the time the pile is exhausted are ignored). The total number of cards "owned" by each player is counted up and a winner/draw is declared.
 
+# HOW TO INSTALL
+
+To install the application run the following commands:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
 # HOW TO RUN
 
-To execute the program pull the repository and execute the following from the repository root directory:
+To execute the program run the following command in your terminal:
 
-    ./bin/play.pl
+    play-match
 
 # TESTS
 
