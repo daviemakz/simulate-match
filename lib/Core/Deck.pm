@@ -18,6 +18,7 @@ sub new {
   # function: shuffle the deck
   sub shuffle_deck {
     my $self = shift;
+    $self->{'_shuffled'}   = 0;
     @{ $self->{'_cards'} } = shuffle( @{ $self->{'_cards'} } );
     return 1;
   }
